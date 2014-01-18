@@ -1,0 +1,28 @@
+{
+  "name": "twitter-profile",
+  "version": "0.0.1",
+  "description": "Returns a twitter profile object when given some oauth details for a twitter user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/binocarlos/twitter-profile.git"
+  },
+  "keywords": [
+    "twitter",
+    "profile",
+    "oauth"
+  ],
+  "author": "Kai Davenport",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/binocarlos/twitter-profile/issues"
+  },
+  "homepage": "https://github.com/binocarlos/twitter-profile",
+  "dependencies": {
+    "querystring": "~0.2.0",
+    "request": "~2.33.0"
+  }
+}
